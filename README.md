@@ -1,10 +1,12 @@
 ### Hi there I'm Orca -- @rlatkdgus500 👋
 
-🔭 I’m currently working on ...
+[![rlatkdgus500's github stats](https://github-readme-stats.vercel.app/api?username=rlatkdgus500&show_icons=true&hide_border=true)](https://github.com/rlatkdgus500)
+
+### 🔭 I’m currently working on ...
 - I'm Inha Univ. CSE student. (5/8)
 - Working on Banjihagames via part-time. (Unity Client) 
 
-🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 - Unity 3D
 - Unreal Engine
 - React Native
@@ -12,8 +14,8 @@
 - Python, Java, Node.js for server application
 - And... Recently, I am interested in digital-drawings
 
-📫 How to reach me: ...
-- Facebook:
+### 📫 How to reach me: ...
+- Facebook: 
 - Instagram: 
 - LinkedIn:
-- Email: studio.orca@kakao.com
+- Email: studio.orca@kakao.com  

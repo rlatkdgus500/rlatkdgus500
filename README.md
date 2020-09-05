@@ -4,7 +4,6 @@
 
 ### 🔭 I’m currently working on ...
 - I'm Inha Univ. CSE student. (5/8)
-- Working on Banjihagames via part-time. (Unity Client) 
 
 ### 🌱 I’m currently learning ...
 - Unity 3D
